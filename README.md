@@ -6,7 +6,7 @@ This project demonstrates MQTT publish and subscribe using AWS IoT Core with Pyt
 ## Steps
 1. Connect to AWS IoT Core using certificates
 2. Subscribe to a topic
-3. Publish messages periodically
+3. Publish messages 
 
 ## Screenshots
 
